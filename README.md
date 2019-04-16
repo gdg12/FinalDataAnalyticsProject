@@ -1,5 +1,5 @@
-# FinalDataAnalyticsProject
-Final Project for ENV 872 
+# Final Data Analytics Project
+Final Project for ENV 872L
 
 # Summary
 This dataset was prepared for the Environmental Data Analytics (ENV 872L) Final Project at Duke University for Spring 2019.
