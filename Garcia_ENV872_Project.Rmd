@@ -29,7 +29,7 @@ abstract: Water bodies with higher concentrations of dissolved oxygen tend to ha
 
 <Information in these brackets are used for annotating the RMarkdown file. They will not appear in the final version of the PDF document>
 
-\newpage
+
 
 \tableofcontents 
 
